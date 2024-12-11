@@ -1,0 +1,35 @@
+.festive-favorites-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+}
+.festive-title-style {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  max-width: 424px;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  font: italic 600 34px "Work Sans", sans-serif;
+  color: #6a356d;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.festive-description {
+  box-sizing: border-box;
+  display: -webkit-box;
+  flex: 0 0 auto;
+  max-width: 424px;
+  padding: 0;
+  margin: 0;
+  margin-top: 27px;
+  overflow: hidden;
+  font: 500 19px/32px "Albert Sans", sans-serif;
+  color: #807877;
+  text-align: center;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}

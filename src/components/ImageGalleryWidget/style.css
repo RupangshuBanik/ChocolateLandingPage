@@ -1,0 +1,30 @@
+.flex-container-with-padding-Y {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: 54.58%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.image-container-styled-Y {
+  box-sizing: border-box;
+  display: block;
+  width: 102px;
+  max-width: initial;
+  height: 73px;
+  border: none;
+  object-fit: contain;
+}
+.image-container-with-border-Y {
+  box-sizing: border-box;
+  display: block;
+  width: 583px;
+  max-width: initial;
+  height: 648px;
+  margin-left: -33px;
+  border: none;
+  object-fit: cover;
+}

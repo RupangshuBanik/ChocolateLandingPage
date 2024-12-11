@@ -1,0 +1,15 @@
+.image-container2 {
+  flex: 0 0 auto;
+  padding-right: 43px;
+  padding-left: 43px;
+  margin-top: -14px;
+}
+.image-container3 {
+  box-sizing: border-box;
+  display: block;
+  width: 579px;
+  max-width: initial;
+  height: 417px;
+  border: none;
+  object-fit: cover;
+}

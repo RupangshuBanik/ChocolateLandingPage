@@ -1,0 +1,32 @@
+.chocolate-delights-section1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 1 auto;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 1147px;
+  margin-right: 14px;
+}
+.artisanal-delights-section {
+  display: flex;
+  flex: 0 1 auto;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-right: 175px;
+}
+.chocolate-collection-card {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 489px;
+}
+.festive-favorites-section {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  max-width: initial;
+  height: 566px;
+  border: none;
+  object-fit: contain;
+}

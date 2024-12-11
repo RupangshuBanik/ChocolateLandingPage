@@ -1,0 +1,104 @@
+.chocolate-experience-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: 181px;
+}
+.chocolate-experience-section1 {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding-right: 69px;
+  padding-left: 95px;
+}
+.chocolate-experience-section {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-end;
+  max-width: 500px;
+  padding-top: 61px;
+}
+.chocolate-banner-container {
+  flex: 0 0 auto;
+  padding-right: 7px;
+  padding-left: 7px;
+}
+.image-container {
+  box-sizing: border-box;
+  display: block;
+  width: 93px;
+  max-width: initial;
+  height: 84px;
+  border: none;
+  object-fit: contain;
+}
+.chocolate-gift-pack-section {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  padding-bottom: 46px;
+}
+.image-container-row {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-container1 {
+  box-sizing: border-box;
+  display: block;
+  width: 93px;
+  max-width: initial;
+  height: 87px;
+  border: none;
+  object-fit: contain;
+}
+.image-container-with-border {
+  box-sizing: border-box;
+  display: block;
+  width: 96px;
+  max-width: initial;
+  height: 82px;
+  
+  border: none;
+  object-fit: contain;
+}
+.promo-banner-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: flex-start;
+  align-self: flex-end;
+  justify-content: flex-end;
+  margin-top: -6px;
+}
+.image-container4 {
+  box-sizing: border-box;
+  display: block;
+  width: 102px;
+  max-width: initial;
+  height: 93px;
+  margin-right: 693px;
+  border: none;
+  object-fit: contain;
+}
+.image-container-styled {
+  box-sizing: border-box;
+  display: block;
+  width: 75px;
+  max-width: initial;
+  height: 99px;
+  border: none;
+  object-fit: contain;
+}

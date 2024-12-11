@@ -1,0 +1,76 @@
+.chocolate-delight-landing-page {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  min-width: 1530px;
+  padding-top: 11px;
+  padding-bottom: 86px;
+  background: #fdf5eb;
+}
+.chocolate-delight-layout {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  align-self: center;
+  justify-content: space-between;
+  min-width: 1240px;
+}
+.chocolate-delight-menu-nav {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.chocolate-image-display-style {
+  box-sizing: border-box;
+  display: block;
+  width: 48px;
+  max-width: initial;
+  height: 48px;
+  border: none;
+  object-fit: cover;
+}
+.chocolate-title-style {
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  margin-left: 3px;
+  font: 400 24px/24px "DM Serif Display", serif;
+  color: black;
+}
+.navigation-bar {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 28px;
+  align-items: center;
+  justify-content: flex-start;
+}
+.primary-navigation-link {
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  font: 400 16px/16px "Albert Sans", sans-serif;
+  color: #998a9e;
+}
+.purple-button {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 74px;
+  min-width: 74px;
+  height: 40px;
+  margin-left: 29px;
+  font: 600 16px/16px "Albert Sans", sans-serif;
+  color: #ceb9d2;
+  cursor: pointer;
+  background: #512580;
+  border: none;
+  border-radius: 45px;
+}

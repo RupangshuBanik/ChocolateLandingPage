@@ -1,0 +1,29 @@
+.festive-highlights {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  width: 100%;
+  margin-top: 60px;
+}
+.festive-button {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  align-self: center;
+  width: 162px;
+  min-width: 162px;
+  height: 48px;
+  margin-top: 48px;
+  margin-left: -79px;
+  overflow: hidden;
+  font: 600 16px "Albert Sans", sans-serif;
+  color: #a29499;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  cursor: pointer;
+  background: #fff4ea;
+  border: 1px solid #a29499;
+  border-radius: 48px;
+}

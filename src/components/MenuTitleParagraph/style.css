@@ -1,0 +1,10 @@
+.menu-title-text-style {
+  padding: 0;
+  margin: 0;
+  font: 400 16px/16px "Albert Sans", sans-serif;
+  color: #766d69;
+  white-space: pre-wrap;
+}
+.menu-title-section {
+  margin-top: 20px;
+}

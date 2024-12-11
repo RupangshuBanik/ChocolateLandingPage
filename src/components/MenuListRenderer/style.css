@@ -1,0 +1,8 @@
+.menu-title-list {
+  box-sizing: border-box;
+  width: 100%;
+  margin-top: 20px;
+}
+.menu-title-text-style:first-child {
+  margin-top: 0px;
+}

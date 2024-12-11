@@ -1,0 +1,93 @@
+.chocolate-indulgence-section1 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  min-width: 1530px;
+  padding: 277px 97px 319px;
+  background: url("/assets/image_44a16c5f.png") 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.chocolate-indulgence-section {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-end;
+  width: 787px;
+  padding-top: 56px;
+}
+.chocolate-title-text-style {
+  box-sizing: border-box;
+  display: -webkit-box;
+  flex: 0 0 auto;
+  max-width: 366px;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  font: italic 600 52px/64px "Work Sans", sans-serif;
+  color: #421b50;
+  text-align: left;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.chocolate-indulgence-text {
+  box-sizing: border-box;
+  display: -webkit-box;
+  flex: 0 0 auto;
+  max-width: 403px;
+  padding: 0;
+  margin: 0;
+  margin-top: 39px;
+  overflow: hidden;
+  font: 500 19px/36px "Albert Sans", sans-serif;
+  color: #88746e;
+  text-align: left;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+}
+.chocolate-promo-button {
+  flex: 0 0 auto;
+  margin-top: 78px;
+}
+.purple-rounded-box {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  max-width: 209px;
+  height: 63px;
+  padding-top: 15.5px;
+  background: #5c3092;
+  border-radius: 63px;
+}
+.explore-more-text-style {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 141px;
+  max-width: 141px;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  font: 600 19px "Albert Sans", sans-serif;
+  color: #eee6ec;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.chocolate-highlights {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 296px;
+  padding-bottom: 201px;
+  padding-left: 15px;
+}

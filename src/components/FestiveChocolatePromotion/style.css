@@ -1,0 +1,21 @@
+.chocolate-delights-section {
+  flex: 0 0 auto;
+  margin-top: 26px;
+}
+.festive-button {
+  box-sizing: border-box;
+  display: block;
+  width: 218px;
+  min-width: 218px;
+  height: 60px;
+  margin-top: 60px;
+  overflow: hidden;
+  font: 600 19px "Albert Sans", sans-serif;
+  color: #cabdce;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  cursor: pointer;
+  background: #4d2482;
+  border: none;
+  border-radius: 60px;
+}

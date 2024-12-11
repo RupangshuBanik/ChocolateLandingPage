@@ -1,0 +1,54 @@
+.choco-delight-layout {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  min-width: 1440px;
+  padding: 40px 99px 80px;
+  background: #fef4ec;
+}
+.chocolate-delight-footer-section {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 27.05%;
+}
+.chocolate-delight-image {
+  box-sizing: border-box;
+  display: block;
+  width: 96px;
+  max-width: initial;
+  height: 96px;
+  border: none;
+  object-fit: cover;
+}
+.chocolate-delight-copyright {
+  padding: 0;
+  margin: 0;
+  margin-top: 40px;
+  font: 400 16px/16px "Albert Sans", sans-serif;
+  color: #766d69;
+  text-align: left;
+}
+.chocolate-box {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 30.28%;
+  padding-right: 15px;
+  padding-bottom: 9px;
+  padding-left: 15px;
+}
+.primary-heading-text-style {
+  padding: 0;
+  margin: 0;
+  font: 600 15px/15px "Albert Sans", sans-serif;
+  color: #766d69;
+}
+.connect-with-us-section {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 12.4%;
+  padding-right: 15px;
+  padding-bottom: 9px;
+  padding-left: 15px;
+}

@@ -1,0 +1,28 @@
+.sensory-chocolate-experience-style {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  min-width: 1530px;
+  padding-top: 173px;
+  background: #fff4ea;
+}
+.chocolate-delights-section2 {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: flex-start;
+  align-self: flex-end;
+  justify-content: flex-end;
+  margin-top: 88px;
+}
+.chocolate-image-style {
+  box-sizing: border-box;
+  display: block;
+  width: 125px;
+  max-width: initial;
+  height: 214px;
+  border: none;
+  object-fit: contain;
+}

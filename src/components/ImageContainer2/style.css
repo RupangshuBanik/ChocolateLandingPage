@@ -1,0 +1,15 @@
+.image-container {
+    flex: 0 0 auto;
+    align-self: flex-end;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .image-container4 {
+    box-sizing: border-box;
+    display: block;
+    width: 404px;
+    max-width: initial;
+    height: 440px;
+    border: none;
+    object-fit: contain;
+  }

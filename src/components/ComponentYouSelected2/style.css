@@ -1,0 +1,41 @@
+.holiday-chocolate-promo-container-Z {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-width: 1530px;
+  padding-right: 18px;
+  background: #fef4ec;
+}
+.holiday-chocolate-promo-section-Z {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  min-width: 1222px;
+  padding-top: 230px;
+  padding-bottom: 214px;
+}
+.festive-chocolate-promo-container-Z {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  width: 45.42%;
+  padding-top: 62px;
+  padding-bottom: 114px;
+}
+.chocolate-image-display-style-Z {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 92px;
+  max-width: initial;
+  height: 89px;
+  border: none;
+  object-fit: contain;
+}
